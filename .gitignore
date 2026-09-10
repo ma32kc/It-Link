@@ -1,0 +1,17 @@
+# Зависимости
+/vendor/
+
+# Переменные окружения
+.env
+
+# Артефакты выполнения Yii
+/runtime/
+/web/assets/
+
+# Локальные файлы IDE
+/.idea/
+/.vscode/
+
+# Кэш и отчёты тестов
+/.phpunit.cache/
+/.phpunit.result.cache
